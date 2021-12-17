@@ -1,3 +1,5 @@
 # ems-rest-api-server
 
-https://github.com/karuhi/slack-req-relay
+Parent repository:
+
+https://github.com/karuhi/kizukeya
